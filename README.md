@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HamzaH042
 - 👀 I’m interested in using the knowledge have learned and putting it to use by designing projects  
-- 🌱 I’m currently learning Python, Machine learning and CyberSecurity
+- 🌱 I’m currently learning Linux.
 - 📫 You can reach me by email: hamza1257@outlook.com
 
 <!---
